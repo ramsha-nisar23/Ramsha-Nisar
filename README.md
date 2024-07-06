@@ -5,8 +5,6 @@
 
 - 👯 I’m looking to collaborate on **Salon Management System**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramsha-nisar23](https://github.com/ramsha-nisar23)
-
 - 💬 Ask me about **HTML, CSS, JavaScript, React.js**
 
 - 📫 How to reach me **ramshanisar642@gmail.com**
